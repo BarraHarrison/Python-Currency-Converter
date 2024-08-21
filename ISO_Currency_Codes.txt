@@ -1,0 +1,32 @@
+Common Currency Codes:
+
+USD - United States Dollar
+EUR - Euro
+GBP - British Pound Sterling
+JPY - Japanese Yen
+KRW - South Korean Won
+CNY - Chinese Yuan
+INR - Indian Rupee
+CAD - Canadian Dollar
+AUD - Australian Dollar
+CHF - Swiss Franc
+SEK - Swedish Krona
+NOK - Norwegian Krone
+DKK - Danish Krone
+NZD - New Zealand Dollar
+RUB - Russian Ruble
+MXN - Mexican Peso
+ZAR - South African Rand
+BRL - Brazilian Real
+HKD - Hong Kong Dollar
+SGD - Singapore Dollar
+THB - Thai Baht
+MYR - Malaysian Ringgit
+IDR - Indonesian Rupiah
+TRY - Turkish Lira
+AED - United Arab Emirates Dirham
+SAR - Saudi Riyal
+EGP - Egyptian Pound
+PLN - Polish Zloty
+ILS - Israeli New Shekel
+PHP - Philippine Peso
